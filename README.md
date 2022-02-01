@@ -57,5 +57,5 @@ After completing above steps we have conculded that the best regularization para
 - Logistic Regression Accuracy Score (Regularized): 0.9252
 
 <p align="center">
-  <img width="600" height="400" src="https://raw.githubusercontent.com/mohamedziane/Logistic-Regression-for-Gender-Classificaton/main/images/img_finalmetrics.png">
+  <img width="800" height="400" src="https://raw.githubusercontent.com/mohamedziane/Logistic-Regression-for-Gender-Classificaton/main/images/img_finalmetrics.png">
 </p>
